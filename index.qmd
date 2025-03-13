@@ -5,8 +5,18 @@ authors:
     affiliation: Colorado State University
     roles: writing
     corresponding: true
+  - name: Zac Cramton
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: False
+  - name: Rachel Delorie
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: False
 bibliography: references.bib
+csl: ./apa.csl
 ---
 
 ## Section
+
 This is a simple placeholder for the manuscript's main document [@knuth84].
