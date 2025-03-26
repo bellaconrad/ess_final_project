@@ -17,6 +17,112 @@ bibliography: references.bib
 csl: ./apa.csl
 ---
 
-## Section
+# Bella's proposals
 
-This is a simple placeholder for the manuscript's main document [@knuth84].
+## Proposal 1
+
+Title: Industrial Management of Toxic Chemicals
+
+Justification: The purpose of analyzing this data would be to examine the US manufacturing sector and determine whether they have succeeded in reducing toxic chemical substance emissions throughout history [@fujii2013decomposition]. This specific article contains “toxic chemical substance emissions in the metal fabrication industry,” where the data has come from three US manufacturing sectors from 1991 to 2009 [@fujii2013decomposition]. Looking at toxicity data for environmental chemicals is also key to analyze how many chemicals are in the environment. This can help to determine the aftermath of the industrial pollution and management of these toxic chemicals, with the impact on the environment. A good source for this would be looking at the “EPA and other organizations that are developing chemical screening and prioritization programs” [@judson2009toxicity]. An analysis of these chemicals and possible sources could be strong informational data to look further into the industrial management of toxic chemicals.
+
+Research question: “How has industrial management of toxic chemicals impacted environmental accumulation?”
+
+Proposed methods:
+
+\- Gather as much historical information on industrial chemical pollution sectors as possible [@fujii2013decomposition]
+
+\- Using a linear regression, model the trends of toxic emissions over time
+
+\- Analyze the amount of toxins in the environment throughout history [@judson2009toxicity]
+
+\- Use either Pearson or Spearman to test the correlation of emissions with environmental toxicity levels
+
+Expected Outcomes: Based on the research question, we expect to find a high correlation between industrial management of the toxic chemicals and environmental accumulation of the same toxic chemicals. I think this is because most chemicals in the environment often come from the industrial production sector.
+
+## Proposal 2
+
+Title: Anthropogenic Impacts on Tropical Forest Biodiversity 
+
+Justification: With rising temperatures, worsened natural disasters, and desertification, tropical forests are at a high risk of losing many plant and animal species over time. This can be caused by “deforestation and fragmentation, over-exploitation, invasive species, and climate change” [@morris2010anthropogenic]. These changes in tropical forests not only impact changes in species richness or species diversity, but also “interactions between species, how those species are organized in networks, and the function that those species perform” [@morris2010anthropogenic]. With many sources on tropical forest fragmentation and deforestation, with data that correlates to species diversity, there are many pieces of data that could be analyzed in this realm. Looking at global patterns of tropical forest fragmentation would most likely be the strongest source because we can apply differences in species richness and evenness throughout the world, rather than in one specific geographic area, which can improve the strength of this study [@taubert2018global]. 
+
+Research question: Does tropical forest fragmentation impact species biodiversity?” 
+
+Proposed methods: 
+
+\- We will analyze tropical forest fragmentation from a global aspect [@taubert2018global] 
+
+\- We will then analyze species richness and diversity in these same geographic areas with multiple sources, including [@morris2010anthropogenic]. 
+
+\- We can use spatial regression models to determine a possible relationship 
+
+\- We can also use correlation analysis to strengthen the possibility of a relationship. 
+
+Expected Outcomes: We expect more fragmentation in an area to correlate with decreasing to a lack of species diversity, including richness and evenness. We could also expect an increase in invasive species. I think there will be some outliers because of invasive species, but also because of anthropogenic impacts, like rehabilitation centers and humans bringing non-native species.  
+
+# Rachel's proposals
+
+## Proposal 1
+
+Title: Tree Cover vs. Wildlife Sightings
+
+Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could inform conservation efforts and help scientists prioritize areas for protection.
+
+Research question: "How does the density of tree cover in forested areas correlate with the frequency and diversity of wildlife sightings?"
+
+Proposed methods:
+
+\- Collect tree cover and wildlife sighting data
+
+\- Use exploratory data analysis
+
+\- Look for correlation using a correlation co-efficient
+
+\- Apply regression models to quantify the relationship between tree cover and wildlife sightings, and adjusting for factors such as forest type, climate, and location.
+
+## Proposal 2
+
+Title: Urban Green Space’s Effects on Urban Heat Islands
+
+Justification: Urban heat islands (UHIs) are a phenomenon where urban areas experience higher temperatures than surrounding rural areas, which exacerbates heat waves. Green spaces are believed to mitigate this effect.
+
+Research question: "How do urban green spaces affect the local temperature compared to non-green urban areas?"
+
+Proposed methods:
+
+\- Find temperature data for an urban area and compare the area with green space to non-green space
+
+\- Use exploratory data analysis
+
+\- Look for correlation using a correlation co-efficient
+
+\- Apply regression models to quantify the relationship between tree cover and wildlife sightings, and adjusting for factors such as forest type, climate, and location.
+
+# Zac's Proposals
+
+## Proposal 1
+
+Title: Tree Planting Along Roads and Traffic Speeds
+
+Justification: Narrowing roads and creating visual obstacles have been common traffic calming measures for decades. Trees have often been planted along roads to provide shade, protect structures from vehicles and separate pedestrians from cars. Murals/asphalt art, signs, bollards and road striping have been used to slow traffic sometimes by physically shrinking the road and other times by creating illusions or visual obstructions causing drivers to perceive the road as narrower than it is. Another example of visual calming measures is employing street parking to make the lanes feel smaller and the street feel fuller. The U.S. is built around cars but increasingly municipalities are looking for ways to improve awareness of traffic fatalities and injuries while reducing their frequency. Planting trees along roadways may not only be linked to calmer traffic but could impact vehicle emissions diffusion, reducing the impact of driving in tree-filled cities.
+
+Research question: “How does planting trees along roadways impact vehicle speeds?”
+
+Proposed methods:
+
+\- Find urban forestry and traffic data with spatial overlap.
+
+\- Conduct exploratory analysis to identify traffic corridors with and without trees or with different treen planting densities.
+
+\- Compare the traffic speeds observed on roadways with different tree densities.
+
+\- Apply regression models to quantify the relationship between the density of trees lining a road and observed traffic speeds, adjusting for factors such as road width, posted speed limit, tree size, and road hierarchy.
+
+Expected Outcomes: Given the efficacy of visual traffic calming measures and existing research on tree planting to protect pedestrians and structures from vehicles, tree planting along roadways is likely to effectively reduce traffic speeds in addition to providing the physical barrier for pedestrians and structures along the road.
+
+## Proposal 2
+
+Title: Campuses and Biodiversity
+
+Justification: In some locations, campuses can represent a substantial amount of green space relative to the surroundings. However, campuses often have a drastically different flora profile than undeveloped natural area. With the understanding that natural areas enhance biodiversity, how does the landscaping that occur on campuses impact biodiversity both relative to natural areas and the developed areas surrounding the campus,
+
+Research question: “How do campuses impact local biodiversity in urban and peri-urban environments?”
