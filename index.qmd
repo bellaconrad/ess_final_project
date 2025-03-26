@@ -15,6 +15,9 @@ authors:
     corresponding: False
 bibliography: references.bib
 csl: ./apa.csl
+output:
+  html_document:
+    github_pages: true
 ---
 
 # Bella's proposals
