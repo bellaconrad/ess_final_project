@@ -44,23 +44,23 @@ Expected Outcomes: Based on the research question, we expect to find a high corr
 
 ## Proposal 2
 
-Title: Anthropogenic Impacts on Tropical Forest Biodiversity 
+Title: Anthropogenic Impacts on Tropical Forest Biodiversity
 
-Justification: With rising temperatures, worsened natural disasters, and desertification, tropical forests are at a high risk of losing many plant and animal species over time. This can be caused by “deforestation and fragmentation, over-exploitation, invasive species, and climate change” [@morris2010anthropogenic]. These changes in tropical forests not only impact changes in species richness or species diversity, but also “interactions between species, how those species are organized in networks, and the function that those species perform” [@morris2010anthropogenic]. With many sources on tropical forest fragmentation and deforestation, with data that correlates to species diversity, there are many pieces of data that could be analyzed in this realm. Looking at global patterns of tropical forest fragmentation would most likely be the strongest source because we can apply differences in species richness and evenness throughout the world, rather than in one specific geographic area, which can improve the strength of this study [@taubert2018global]. 
+Justification: With rising temperatures, worsened natural disasters, and desertification, tropical forests are at a high risk of losing many plant and animal species over time. This can be caused by “deforestation and fragmentation, over-exploitation, invasive species, and climate change” [@morris2010anthropogenic]. These changes in tropical forests not only impact changes in species richness or species diversity, but also “interactions between species, how those species are organized in networks, and the function that those species perform” [@morris2010anthropogenic]. With many sources on tropical forest fragmentation and deforestation, with data that correlates to species diversity, there are many pieces of data that could be analyzed in this realm. Looking at global patterns of tropical forest fragmentation would most likely be the strongest source because we can apply differences in species richness and evenness throughout the world, rather than in one specific geographic area, which can improve the strength of this study [@taubert2018global].
 
-Research question: Does tropical forest fragmentation impact species biodiversity?” 
+Research question: Does tropical forest fragmentation impact species biodiversity?”
 
-Proposed methods: 
+Proposed methods:
 
-\- We will analyze tropical forest fragmentation from a global aspect [@taubert2018global] 
+\- We will analyze tropical forest fragmentation from a global aspect [@taubert2018global]
 
-\- We will then analyze species richness and diversity in these same geographic areas with multiple sources, including [@morris2010anthropogenic]. 
+\- We will then analyze species richness and diversity in these same geographic areas with multiple sources, including [@morris2010anthropogenic].
 
-\- We can use spatial regression models to determine a possible relationship 
+\- We can use spatial regression models to determine a possible relationship
 
-\- We can also use correlation analysis to strengthen the possibility of a relationship. 
+\- We can also use correlation analysis to strengthen the possibility of a relationship.
 
-Expected Outcomes: We expect more fragmentation in an area to correlate with decreasing to a lack of species diversity, including richness and evenness. We could also expect an increase in invasive species. I think there will be some outliers because of invasive species, but also because of anthropogenic impacts, like rehabilitation centers and humans bringing non-native species.  
+Expected Outcomes: We expect more fragmentation in an area to correlate with decreasing to a lack of species diversity, including richness and evenness. We could also expect an increase in invasive species. I think there will be some outliers because of invasive species, but also because of anthropogenic impacts, like rehabilitation centers and humans bringing non-native species.
 
 # Rachel's proposals
 
@@ -68,7 +68,7 @@ Expected Outcomes: We expect more fragmentation in an area to correlate with dec
 
 Title: Tree Cover vs. Wildlife Sightings
 
-Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could provide valuable insights into how changes in forest compositions influence the abundance and behavior of various wildlife species. By analyzing patterns of tree cover density in different areas and correlating them with wildlife sightings, we could identify key habitats that support higher biodiversity [wang2023tree]. This information would be crucial for conservation efforts, allowing scientists and environmental organizations to prioritize specific areas for protection or restoration. Additionally, the findings could guide land development/management to effectively balance human development with species conservation. The goal of this project would be to acuqire information that can contribute to species protection, minimize deforestation, and save animal habitats from unnecessary human development [@mueller2022multi].
+Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could provide valuable insights into how changes in forest compositions influence the abundance and behavior of various wildlife species. By analyzing patterns of tree cover density in different areas and correlating them with wildlife sightings, we could identify key habitats that support higher biodiversity \[wang2023tree\]. This information would be crucial for conservation efforts, allowing scientists and environmental organizations to prioritize specific areas for protection or restoration. Additionally, the findings could guide land development/management to effectively balance human development with species conservation. The goal of this project would be to acuqire information that can contribute to species protection, minimize deforestation, and save animal habitats from unnecessary human development [@mueller2022multi].
 
 Research question: "How does the density of tree cover in forested areas correlate with the frequency and diversity of wildlife sightings?"
 
@@ -104,32 +104,32 @@ Proposed methods:
 
 ## Proposal 1
 
-Title: Tree Planting Along Roads and Traffic Speeds 
+Title: Tree Planting Along Roads and Traffic Speeds
 
-Justification: Narrowing roads and creating visual obstacles have been common traffic calming measures for decades. Trees have often been planted along roads to provide shade, protect structures from vehicles and separate pedestrians from cars. Murals/asphalt art, signs, bollards and road striping have been used to slow traffic sometimes by physically shrinking the road and other times by creating illusions or visual obstructions causing drivers to perceive the road as narrower than it is. Another example of visual calming measures is employing street parking to make the lanes feel smaller and the street feel fuller [@hamidi2023national]. The U.S. is built around cars but increasingly municipalities are looking for ways to improve awareness of traffic fatalities and injuries while reducing their frequency. Planting trees along roadways may not only be linked to calmer traffic but could impact vehicle emissions diffusion, reducing the impact of driving in tree-filled cities. 
+Justification: Narrowing roads and creating visual obstacles have been common traffic calming measures for decades. Trees have often been planted along roads to provide shade, protect structures from vehicles and separate pedestrians from cars. Murals/asphalt art, signs, bollards and road striping have been used to slow traffic sometimes by physically shrinking the road and other times by creating illusions or visual obstructions causing drivers to perceive the road as narrower than it is. Another example of visual calming measures is employing street parking to make the lanes feel smaller and the street feel fuller [@hamidi2023national]. The U.S. is built around cars but increasingly municipalities are looking for ways to improve awareness of traffic fatalities and injuries while reducing their frequency. Planting trees along roadways may not only be linked to calmer traffic but could impact vehicle emissions diffusion, reducing the impact of driving in tree-filled cities.
 
-Research question: “How does planting trees along roadways impact vehicle speeds?” To explore this question, we will examine the relationship between tree planting density and vehicle speeds on roadways using linear regression models to test the hypothesis that higher tree densities along roadways decrease vehicle speeds. 
+Research question: “How does planting trees along roadways impact vehicle speeds?” To explore this question, we will examine the relationship between tree planting density and vehicle speeds on roadways using linear regression models to test the hypothesis that higher tree densities along roadways decrease vehicle speeds.
 
-Proposed methods: 
+Proposed methods:
 
-We can use municipal and federal traffic data sources paired with municipal forestry data with spatial overlap. Ideally, this data will be focused on Fort Collins as it is spatially relevant and strong forestry records exist through the city forester, local arborist organizations and the USFS [@mcpherson2003benefit]. If data is incomplete for Fort Collins, a search may be conducted to identify a municipality with more comprehensive data available. This investigation is best kept to one municipality to avoid other cofounding traffic management strategies from interfering with the analysis. 
+We can use municipal and federal traffic data sources paired with municipal forestry data with spatial overlap. Ideally, this data will be focused on Fort Collins as it is spatially relevant and strong forestry records exist through the city forester, local arborist organizations and the USFS [@mcpherson2003benefit]. If data is incomplete for Fort Collins, a search may be conducted to identify a municipality with more comprehensive data available. This investigation is best kept to one municipality to avoid other cofounding traffic management strategies from interfering with the analysis.
 
-\- Conduct exploratory analysis to identify traffic corridors with and without trees or with different treen planting densities. 
+\- Conduct exploratory analysis to identify traffic corridors with and without trees or with different treen planting densities.
 
-\- Compare the traffic speeds observed on roadways with different tree densities. 
+\- Compare the traffic speeds observed on roadways with different tree densities.
 
-\- Apply regression models to quantify the relationship between the density of trees lining a road and observed traffic speeds, adjusting for factors such as road width, posted speed limit, tree size, and road hierarchy. 
+\- Apply regression models to quantify the relationship between the density of trees lining a road and observed traffic speeds, adjusting for factors such as road width, posted speed limit, tree size, and road hierarchy.
 
-Expected Outcomes: Given the efficacy of visual traffic calming measures and existing research on tree planting to protect pedestrians and structures from vehicles, tree planting along roadways is likely to effectively reduce traffic speeds in addition to providing the physical barrier for pedestrians and structures along the road. 
+Expected Outcomes: Given the efficacy of visual traffic calming measures and existing research on tree planting to protect pedestrians and structures from vehicles, tree planting along roadways is likely to effectively reduce traffic speeds in addition to providing the physical barrier for pedestrians and structures along the road.
 
 ## Proposal 2
 
-Title: Campuses and Biodiversity 
+Title: Campuses and Biodiversity
 
-Justification: In some locations, campuses can represent a substantial amount of green space relative to the surroundings. These more carefully landscaped areas on campuses significantly improve biodiversity. Past research has included insect [@wheeler2008college] and bird [@sanllorente2023importance] biodiversity studies showing higher species richness than in surrounding developed areas. That said, campuses often have a drastically different flora profile than undeveloped natural areas and flora biodiversity can be a concern [@susilowati2021maintaining]. With the understanding that natural areas enhance biodiversity [@muller2018wild], this analysis seeks to compare landscaped campuses to less developed or completely untouched urban natural areas to assess the loss of biodiversity and habitat that comes with more traditional campus landscaping. 
+Justification: In some locations, campuses can represent a substantial amount of green space relative to the surroundings. These more carefully landscaped areas on campuses significantly improve biodiversity. Past research has included insect [@wheeler2008college] and bird [@sanllorente2023importance] biodiversity studies showing higher species richness than in surrounding developed areas. That said, campuses often have a drastically different flora profile than undeveloped natural areas and flora biodiversity can be a concern [@susilowati2021maintaining]. With the understanding that natural areas enhance biodiversity [@muller2018wild], this analysis seeks to compare landscaped campuses to less developed or completely untouched urban natural areas to assess the loss of biodiversity and habitat that comes with more traditional campus landscaping.
 
-Research question: “How do campuses compare to natural areas for urban and peri-urban biodiversity conservation?” We will test this question using statistical models to compare biodiversity between the two environments. Our hypothesis being that campuses harbor less biodiversity because of uniform landscaping practices are provide less diversity than is found in undeveloped natural areas. 
+Research question: “How do campuses compare to natural areas for urban and peri-urban biodiversity conservation?” We will test this question using statistical models to compare biodiversity between the two environments. Our hypothesis being that campuses harbor less biodiversity because of uniform landscaping practices are provide less diversity than is found in undeveloped natural areas.
 
-Proposed methods: We will compare biodiversity data from campuses — primarily higher education institutions due to data availability — and urban natural areas to assess biodiversity loss in general and in specific organism groups. The preference is for data from the same ecoregion and ideally local geography as comparing comparable environments is helpful in reducing confounding factors. If time allows, comparing cases from multiple ecoregions could reflect interesting differences in biodiversity conservation or loss. 
+Proposed methods: We will compare biodiversity data from campuses — primarily higher education institutions due to data availability — and urban natural areas to assess biodiversity loss in general and in specific organism groups. The preference is for data from the same ecoregion and ideally local geography as comparing comparable environments is helpful in reducing confounding factors. If time allows, comparing cases from multiple ecoregions could reflect interesting differences in biodiversity conservation or loss.
 
-Expected Outcomes: Given the abundant research supporting natural areas and campuses as biodiversity hotspots, this research is mostly focused on comparing the two. Along those lines, we expect universities with landscaped natural areas to harbor less biodiversity than undeveloped natural areas. It’s possible that certain campuses or ecoregions may see a larger difference in biodiversity. Additionally, within the same ecoregion there may be significant differences in the specific organisms or groups of organisms that see biodiversity impacts. For example, flora are likely to see a greater reduction in biodiversity than fauna due to landscaping creating environments with less species richness. 
+Expected Outcomes: Given the abundant research supporting natural areas and campuses as biodiversity hotspots, this research is mostly focused on comparing the two. Along those lines, we expect universities with landscaped natural areas to harbor less biodiversity than undeveloped natural areas. It’s possible that certain campuses or ecoregions may see a larger difference in biodiversity. Additionally, within the same ecoregion there may be significant differences in the specific organisms or groups of organisms that see biodiversity impacts. For example, flora are likely to see a greater reduction in biodiversity than fauna due to landscaping creating environments with less species richness.
