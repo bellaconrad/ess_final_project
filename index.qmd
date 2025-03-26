@@ -1,5 +1,5 @@
 ---
-title: My Paper
+title: Project Proposals- Lab 5
 authors:
   - name: Bella Conrad
     affiliation: Colorado State University
@@ -65,13 +65,13 @@ Expected Outcomes: We expect more fragmentation in an area to correlate with dec
 
 Title: Tree Cover vs. Wildlife Sightings
 
-Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could inform conservation efforts and help scientists prioritize areas for protection.
+Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could provide valuable insights into how changes in forest compositions influence the abundance and behavior of various wildlife species. By analyzing patterns of tree cover density in different areas and correlating them with wildlife sightings, we could identify key habitats that support higher biodiversity [wang2023tree]. This information would be crucial for conservation efforts, allowing scientists and environmental organizations to prioritize specific areas for protection or restoration. Additionally, the findings could guide land development/management to effectively balance human development with species conservation. The goal of this project would be to acuqire information that can contribute to species protection, minimize deforestation, and save animal habitats from unnecessary human development [@mueller2022multi].
 
 Research question: "How does the density of tree cover in forested areas correlate with the frequency and diversity of wildlife sightings?"
 
 Proposed methods:
 
-\- Collect tree cover and wildlife sighting data
+\- Collect tree cover and wildlife sighting data [wang2023tree; @mueller2022multi]
 
 \- Use exploratory data analysis
 
@@ -83,13 +83,13 @@ Proposed methods:
 
 Title: Urban Green Space’s Effects on Urban Heat Islands
 
-Justification: Urban heat islands (UHIs) are a phenomenon where urban areas experience higher temperatures than surrounding rural areas, which exacerbates heat waves. Green spaces are believed to mitigate this effect.
+Justification: Urban heat islands (UHIs) occur when urban areas, due to human activity and infrastructure, experience significantly higher temperatures than the surrounding rural or natural landscapes. This phenomenon risks public health by exacerbating heat waves and causing heat-related illnesses. Additionally, hotter temperatures lead to more consumption of electricity utilized for air conditioning and cooling purposes. Green spaces, such as parks, urban forests, rooftop gardens, etc are believed to mitigate this effect [@aram2019urban]. Vegetation in these areas absorbs carbon dioxide, releases oxygen, and filters pollutants, improving overall public health. They have the potential to enhance air quality, provide shade, and promote evapotranspiration. The findings of this project will inform future decisions on city and urban planning, including the installation of more green spaces and protection of current green spaces to keep our cities healthy [@liu2022green].
 
 Research question: "How do urban green spaces affect the local temperature compared to non-green urban areas?"
 
 Proposed methods:
 
-\- Find temperature data for an urban area and compare the area with green space to non-green space
+\- Find temperature data for an urban area and compare the area with green space to non-green space [@aram2019urban; @liu2022green]
 
 \- Use exploratory data analysis
 
@@ -101,28 +101,32 @@ Proposed methods:
 
 ## Proposal 1
 
-Title: Tree Planting Along Roads and Traffic Speeds
+Title: Tree Planting Along Roads and Traffic Speeds 
 
-Justification: Narrowing roads and creating visual obstacles have been common traffic calming measures for decades. Trees have often been planted along roads to provide shade, protect structures from vehicles and separate pedestrians from cars. Murals/asphalt art, signs, bollards and road striping have been used to slow traffic sometimes by physically shrinking the road and other times by creating illusions or visual obstructions causing drivers to perceive the road as narrower than it is. Another example of visual calming measures is employing street parking to make the lanes feel smaller and the street feel fuller. The U.S. is built around cars but increasingly municipalities are looking for ways to improve awareness of traffic fatalities and injuries while reducing their frequency. Planting trees along roadways may not only be linked to calmer traffic but could impact vehicle emissions diffusion, reducing the impact of driving in tree-filled cities.
+Justification: Narrowing roads and creating visual obstacles have been common traffic calming measures for decades. Trees have often been planted along roads to provide shade, protect structures from vehicles and separate pedestrians from cars. Murals/asphalt art, signs, bollards and road striping have been used to slow traffic sometimes by physically shrinking the road and other times by creating illusions or visual obstructions causing drivers to perceive the road as narrower than it is. Another example of visual calming measures is employing street parking to make the lanes feel smaller and the street feel fuller [@hamidi2023national]. The U.S. is built around cars but increasingly municipalities are looking for ways to improve awareness of traffic fatalities and injuries while reducing their frequency. Planting trees along roadways may not only be linked to calmer traffic but could impact vehicle emissions diffusion, reducing the impact of driving in tree-filled cities. 
 
-Research question: “How does planting trees along roadways impact vehicle speeds?”
+Research question: “How does planting trees along roadways impact vehicle speeds?” To explore this question, we will examine the relationship between tree planting density and vehicle speeds on roadways using linear regression models to test the hypothesis that higher tree densities along roadways decrease vehicle speeds. 
 
-Proposed methods:
+Proposed methods: 
 
-\- Find urban forestry and traffic data with spatial overlap.
+We can use municipal and federal traffic data sources paired with municipal forestry data with spatial overlap. Ideally, this data will be focused on Fort Collins as it is spatially relevant and strong forestry records exist through the city forester, local arborist organizations and the USFS [@mcpherson2003benefit]. If data is incomplete for Fort Collins, a search may be conducted to identify a municipality with more comprehensive data available. This investigation is best kept to one municipality to avoid other cofounding traffic management strategies from interfering with the analysis. 
 
-\- Conduct exploratory analysis to identify traffic corridors with and without trees or with different treen planting densities.
+\- Conduct exploratory analysis to identify traffic corridors with and without trees or with different treen planting densities. 
 
-\- Compare the traffic speeds observed on roadways with different tree densities.
+\- Compare the traffic speeds observed on roadways with different tree densities. 
 
-\- Apply regression models to quantify the relationship between the density of trees lining a road and observed traffic speeds, adjusting for factors such as road width, posted speed limit, tree size, and road hierarchy.
+\- Apply regression models to quantify the relationship between the density of trees lining a road and observed traffic speeds, adjusting for factors such as road width, posted speed limit, tree size, and road hierarchy. 
 
-Expected Outcomes: Given the efficacy of visual traffic calming measures and existing research on tree planting to protect pedestrians and structures from vehicles, tree planting along roadways is likely to effectively reduce traffic speeds in addition to providing the physical barrier for pedestrians and structures along the road.
+Expected Outcomes: Given the efficacy of visual traffic calming measures and existing research on tree planting to protect pedestrians and structures from vehicles, tree planting along roadways is likely to effectively reduce traffic speeds in addition to providing the physical barrier for pedestrians and structures along the road. 
 
 ## Proposal 2
 
-Title: Campuses and Biodiversity
+Title: Campuses and Biodiversity 
 
-Justification: In some locations, campuses can represent a substantial amount of green space relative to the surroundings. However, campuses often have a drastically different flora profile than undeveloped natural area. With the understanding that natural areas enhance biodiversity, how does the landscaping that occur on campuses impact biodiversity both relative to natural areas and the developed areas surrounding the campus,
+Justification: In some locations, campuses can represent a substantial amount of green space relative to the surroundings. These more carefully landscaped areas on campuses significantly improve biodiversity. Past research has included insect [@wheeler2008college] and bird [@sanllorente2023importance] biodiversity studies showing higher species richness than in surrounding developed areas. That said, campuses often have a drastically different flora profile than undeveloped natural areas and flora biodiversity can be a concern [@susilowati2021maintaining]. With the understanding that natural areas enhance biodiversity [@muller23018wild], this analysis seeks to compare landscaped campuses to less developed or completely untouched urban natural areas to assess the loss of biodiversity and habitat that comes with more traditional campus landscaping. 
 
-Research question: “How do campuses impact local biodiversity in urban and peri-urban environments?”
+Research question: “How do campuses compare to natural areas for urban and peri-urban biodiversity conservation?” We will test this question using statistical models to compare biodiversity between the two environments. Our hypothesis being that campuses harbor less biodiversity because of uniform landscaping practices are provide less diversity than is found in undeveloped natural areas. 
+
+Proposed methods: We will compare biodiversity data from campuses — primarily higher education institutions due to data availability — and urban natural areas to assess biodiversity loss in general and in specific organism groups. The preference is for data from the same ecoregion and ideally local geography as comparing comparable environments is helpful in reducing confounding factors. If time allows, comparing cases from multiple ecoregions could reflect interesting differences in biodiversity conservation or loss. 
+
+Expected Outcomes: Given the abundant research supporting natural areas and campuses as biodiversity hotspots, this research is mostly focused on comparing the two. Along those lines, we expect universities with landscaped natural areas to harbor less biodiversity than undeveloped natural areas. It’s possible that certain campuses or ecoregions may see a larger difference in biodiversity. Additionally, within the same ecoregion there may be significant differences in the specific organisms or groups of organisms that see biodiversity impacts. For example, flora are likely to see a greater reduction in biodiversity than fauna due to landscaping creating environments with less species richness. 
