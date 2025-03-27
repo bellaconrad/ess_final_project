@@ -68,13 +68,13 @@ Expected Outcomes: We expect more fragmentation in an area to correlate with dec
 
 Title: Tree Cover vs. Wildlife Sightings
 
-Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could provide valuable insights into how changes in forest compositions influence the abundance and behavior of various wildlife species. By analyzing patterns of tree cover density in different areas and correlating them with wildlife sightings, we could identify key habitats that support higher biodiversity \[wang2023tree\]. This information would be crucial for conservation efforts, allowing scientists and environmental organizations to prioritize specific areas for protection or restoration. Additionally, the findings could guide land development/management to effectively balance human development with species conservation. The goal of this project would be to acuqire information that can contribute to species protection, minimize deforestation, and save animal habitats from unnecessary human development [@mueller2022multi].
+Justification: The purpose of this project would be to assess if there is a relationship between tree cover density and wildlife sighting. Understanding this relationship could provide valuable insights into how changes in forest compositions influence the abundance and behavior of various wildlife species. By analyzing patterns of tree cover density in different areas and correlating them with wildlife sightings, we could identify key habitats that support higher biodiversity \[@wang2023tree]. This information would be crucial for conservation efforts, allowing scientists and environmental organizations to prioritize specific areas for protection or restoration. Additionally, the findings could guide land development/management to effectively balance human development with species conservation. The goal of this project would be to acuqire information that can contribute to species protection, minimize deforestation, and save animal habitats from unnecessary human development [@mueller2022multi].
 
 Research question: "How does the density of tree cover in forested areas correlate with the frequency and diversity of wildlife sightings?"
 
 Proposed methods:
 
-\- Collect tree cover and wildlife sighting data [wang2023tree; @mueller2022multi]
+\- Collect tree cover and wildlife sighting data [@wang2023tree; @mueller2022multi]
 
 \- Use exploratory data analysis
 
